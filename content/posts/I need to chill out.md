@@ -1,22 +1,13 @@
-
 ---
-
 title:  I need to chill out
-
-date: ''27-08-2020''
-
+date: "27-08-2020"
 template: "post"
-
 draft: false
-
 slug: "i-need-to-chill-out"
-
-categories: "metacognition"
-
-tags: "decision-making"
-
+category: "metacognition"
+tags: 
+ - "Decision-making"
 description: "A snapshot of thought"
-
 ---
 
 
