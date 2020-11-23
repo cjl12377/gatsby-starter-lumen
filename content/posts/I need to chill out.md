@@ -3,11 +3,11 @@
 
 title:  I need to chill out
 
-draft: false
-
 date: ''27-08-2020''
 
 template: "post"
+
+draft: false
 
 slug: "i-need-to-chill-out"
 
