@@ -1,6 +1,6 @@
 ---
 title:  I need to chill out
-date: "27-08-2020"
+date: "2020-08-27"
 template: "post"
 draft: false
 slug: "i-need-to-chill-out"
