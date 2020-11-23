@@ -6,7 +6,7 @@ module.exports = {
   title: 'Self-education by Jeng Long',
   subtitle: 'Grant me the strength to accept the things I cannot change, the Courage to change the things that must be change and the Wisdom to know the difference.',
   copyright: '© All rights reserved.',
-  disqusShortname: 'Jeng',
+  disqusShortname: 'self-education-1',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
