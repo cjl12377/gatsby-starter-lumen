@@ -25,7 +25,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Jeng',
+    name: 'Chia Jeng Long',
     photo: '/photo.jpg',
     bio: 'Grant me the strength to accept the things I cannot change, the Courage to change the things that must be change and the Wisdom to know the difference.',
     contacts: {
