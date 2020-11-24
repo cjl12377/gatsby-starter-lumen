@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Self-education by Jeng Long',
-  subtitle: 'Grant me the strength to accept the things I cannot change, the Courage to change the things that must be change and the Wisdom to know the difference.',
+  subtitle: 'Grant me the Strength to accept the things I cannot change, the Courage to change the things that must be change and the Wisdom to know the difference.',
   copyright: '© All rights reserved.',
   disqusShortname: 'self-education-1',
   postsPerPage: 4,
