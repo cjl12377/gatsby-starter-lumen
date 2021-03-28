@@ -1,6 +1,6 @@
 ---
 title: Ultralearning
-date: "2020-28-03"
+date: "2020-28-03T23:46:37.121Z"
 template: "post"
 draft: false
 slug: "ultralearning-principles"
