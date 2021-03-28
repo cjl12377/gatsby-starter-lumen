@@ -1,3 +1,19 @@
+---
+title: Ultralearning
+date: "2020-28-03"
+template: "post"
+draft: false
+slug: "ultralearning-principles"
+category: "Learning"
+tags:
+  - "Learning how to learn"
+description: "The principles of Ultralearning as laid out by Scott Young"
+---
+
+
+
+The main principles of Ultralearning as laid out by [Scott Young](https://www.scotthyoung.com/).
+
 # Principles:
 
 1. Meta-learning - Draw your map
